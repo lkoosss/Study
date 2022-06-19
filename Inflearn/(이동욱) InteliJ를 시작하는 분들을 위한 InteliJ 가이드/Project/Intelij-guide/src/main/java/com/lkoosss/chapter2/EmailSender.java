@@ -11,10 +11,6 @@ public class EmailSender {
         this.email = email;
     }
 
-    public static void receive(String from, String to) {
-        System.out.println(from + "님으로부터" + to + "님이 메일을 받았습니다.");
-    }
-
     public void send(String to) {
         System.out.println(this.email+ "님이" + to +"님에게 메일을 보냅니다.");
     }

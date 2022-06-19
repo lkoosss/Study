@@ -8,7 +8,6 @@ public class FindAndReplace {
     // 전체 프로젝트에서 교체 ctrl + shift + r
     public void find() {
         String str = "textFind";
-        hihihi
     }
 
     public void replace() {

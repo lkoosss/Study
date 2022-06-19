@@ -6,7 +6,5 @@ public class LineCopy {
     // 라인복사 ctrl + d
     public static void main(String[] args) {
         System.out.println("aaa");
-        System.out.println("aaa");
-        System.out.println("aaa");
     }
 }

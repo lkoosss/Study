@@ -7,9 +7,6 @@ import java.util.Optional;
 public class FocusHierarchy {
 
     public void increateFocus() {
-        // 블록선택하기 ctrl + w
-        // 블록선택해제 ctrl + shift + w
-        // 전,후 포커스 ctrl + alt + 좌우 방향키
         System.out.println(Optional.of(new Member().getCourse()));
         System.out.println(LocalDate.of(2018,5,14));
 
